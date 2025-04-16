@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)/(.*)$ router.php?c=$1&a=$2
